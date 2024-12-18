@@ -12,7 +12,12 @@ Welcome to the **E-Commerce App**! This is a simple, responsive online shopping 
 
 ## Screenshots 📸
 
-Include a few screenshots of the app (you can use your favorite tool to capture them) to provide a visual reference for the user.
+screenshot of my app 
+![Product Listing](APP PHOTOS/e-commerce app.png)
+
+### Cart:
+
+![Cart View](.APP PHOTOS/COSMETIC.png)
 
 ## Technologies Used ⚙️
 
