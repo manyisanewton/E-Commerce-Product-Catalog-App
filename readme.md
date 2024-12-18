@@ -69,3 +69,11 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 License 📜
 This project is open-source and available under the MIT License. 🔓
+ ## 💡 Credits
+Built with ❤️ by Newton manyisa.
+
+## Author Eng.Newton.Manyisa
+If you encounter any issues with my code or find yourself stuck at any point,<br> please feel free to raise a flag or seek immediate assistance without hesitation. <br>Your feedback and collaboration are highly valued.
+## Contact 
+1. Phone: +254799425417
+2. Email: <manyisanewton25@gmail.com>
