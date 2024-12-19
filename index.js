@@ -1,6 +1,6 @@
 let cart = []; // This is where we store all the stuff the user adds to their cart
 
-//  we are Fetching  and Displaying the  Products   (getting the products from the internet)
+// Fetch and Display Products
 async function fetchProducts() {
     try {
         const response = await fetch('https://dummyjson.com/products'); // Getting products from the internet
@@ -33,7 +33,7 @@ function addToCart(id, title, price) {
     if (existingItem) {
         existingItem.quantity += 1; // If it is, just add one more
     } else {
-        cart.push({ Product ,id, title, price, quantity: 1 }); // Otherwise, add it as a new item
+        cart.push({ id, title, price, quantity: 1 }); // Otherwise, add it as a new item
     }
     updateCart(); // Update the cart display
 }
