@@ -169,7 +169,7 @@
   .cart-icon {
     position: fixed;
     top: 20px;
-    right: 400px;
+    right: 450px;
     cursor: pointer;
     z-index: 1000;
   }
